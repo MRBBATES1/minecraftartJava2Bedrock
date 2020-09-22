@@ -16,8 +16,21 @@ Use at your own risk.
 Instructions
 ============
 
-1.Place your java MCFunction file in the /Convert/ folder.
-2.Run ConverFunctionFile.bat
-3.Take your new file from /Convert/ folder 
+1.Place your java MCFunction file in the /Convert/ folder
 
-The MCFunction file will have _Bedrock Added to the end of the name.
+2.Run ConverFunctionFile.bat
+
+3.Take your new file from /Convert/ folder
+
+A new file will be created in the Convert folder with the same name but with Bedrock added to the end.
+
+Simply copy this version of the MCFUNCTION file to your functions folder. You should then be able to fun the function as normal.
+
+History of the Script.
+=======================
+
+I do not own nor am i affiliated with https://minecraftart.netlify.app/editor; i made this as i could not find a good pixle art generator for bedrock only for java. So after doing research i found this site had the better interface and export options so i choose this.
+
+I was orginally then converting them by hand but since some can be many thousands of lines long this was not practicle; so this script will now do it for me.
+
+I have shared here in the hopes that it help other uses running into the same problem.
