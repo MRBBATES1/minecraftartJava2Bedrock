@@ -3,7 +3,7 @@ Minecraftart Pixle Art Converter
 
 This Powershell script is intended to modify the MCFunction file that is Exported from https://minecraftart.netlify.app/editor. This will convert the java elements into bedrock.
 
-Example: Minecraft:Yello_wool -> wool 4
+Example: minecraft:yellow_wool -> wool 4
 
 This is not intended to convert MCFUNCTION files from other sites and the script currently cannot handle anything complex. Must be the basic fill / setblock commands.
 
