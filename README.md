@@ -16,7 +16,7 @@ Use at your own risk.
 Instructions
 ============
 
-1.Place your java MCFunction file in the /Convert/ folder
+1.Create a folder called /Convert/ in the main folder and place your java MCFunction in it.
 
 2.Run ConverFunctionFile.bat
 
